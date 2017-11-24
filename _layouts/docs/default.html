@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  {% include docs/head.html %}
+
+  <body>
+
+    {% include docs/header.html %}
+    
+    <div class="home">
+
+      <h1 class="page-heading">Posts</h1>
+
+      <ul class="post-list">
+        {% for page in site.pages %}
+          {% assign path = page.path | split: '/' %}
+          {% if path[0] == 'docs' and  page.exclude != true %}
+            <li>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+              <h2>
+                <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"> {{ page.exclude }} : {{ page.path }}</a>
+              </h2>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include docs/footer.html %}
+
+  </body>
+
+</html>
