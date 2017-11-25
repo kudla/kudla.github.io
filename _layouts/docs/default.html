@@ -20,14 +20,14 @@
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
               <h2>
-                <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"> {{ page.exclude }} : {{ page.path }}</a>
+                <a class="post-link" href="{{ page.url }}"> {{ page.exclude }} : {{ page.path }}</a>
               </h2>
             </li>
           {% endif %}
         {% endfor %}
       </ul>
 
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.docs.baseurl }}">via RSS</a></p>
 
     </div>
 
