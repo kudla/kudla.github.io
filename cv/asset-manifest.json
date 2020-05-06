@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.abb899dd.chunk.css",
-    "main.js": "/cv/static/js/main.c48f9ad2.chunk.js",
-    "main.js.map": "/cv/static/js/main.c48f9ad2.chunk.js.map",
+    "main.js": "/cv/static/js/main.35843d6b.chunk.js",
+    "main.js.map": "/cv/static/js/main.35843d6b.chunk.js.map",
     "runtime-main.js": "/cv/static/js/runtime-main.32a76714.js",
     "runtime-main.js.map": "/cv/static/js/runtime-main.32a76714.js.map",
     "static/js/2.65ac0544.chunk.js": "/cv/static/js/2.65ac0544.chunk.js",
     "static/js/2.65ac0544.chunk.js.map": "/cv/static/js/2.65ac0544.chunk.js.map",
     "index.html": "/cv/index.html",
-    "precache-manifest.48da6477bec11145bdbd04e6a1366cf9.js": "/cv/precache-manifest.48da6477bec11145bdbd04e6a1366cf9.js",
+    "precache-manifest.6631450bc4704300e3e8b25cca9389ca.js": "/cv/precache-manifest.6631450bc4704300e3e8b25cca9389ca.js",
     "service-worker.js": "/cv/service-worker.js",
     "static/css/main.abb899dd.chunk.css.map": "/cv/static/css/main.abb899dd.chunk.css.map",
     "static/media/CvApp.scss": "/cv/static/media/Robotothinitalic.f31f3151.woff2"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.32a76714.js",
     "static/js/2.65ac0544.chunk.js",
     "static/css/main.abb899dd.chunk.css",
-    "static/js/main.c48f9ad2.chunk.js"
+    "static/js/main.35843d6b.chunk.js"
   ]
 }
