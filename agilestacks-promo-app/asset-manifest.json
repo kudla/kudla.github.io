@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/agilestacks-promo-app/static/css/main.cb465ac0.chunk.css",
+    "main.js": "/agilestacks-promo-app/static/js/main.a3ca47e9.chunk.js",
+    "runtime-main.js": "/agilestacks-promo-app/static/js/runtime-main.daf274b1.js",
+    "static/js/2.d49b4d84.chunk.js": "/agilestacks-promo-app/static/js/2.d49b4d84.chunk.js",
+    "index.html": "/agilestacks-promo-app/index.html",
+    "precache-manifest.1195523d7432eb8cd32978b78bf84276.js": "/agilestacks-promo-app/precache-manifest.1195523d7432eb8cd32978b78bf84276.js",
+    "service-worker.js": "/agilestacks-promo-app/service-worker.js",
+    "static/js/2.d49b4d84.chunk.js.LICENSE": "/agilestacks-promo-app/static/js/2.d49b4d84.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf274b1.js",
+    "static/js/2.d49b4d84.chunk.js",
+    "static/css/main.cb465ac0.chunk.css",
+    "static/js/main.a3ca47e9.chunk.js"
+  ]
+}
