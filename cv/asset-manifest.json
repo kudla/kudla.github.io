@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.b3110e9c.chunk.css",
-    "main.js": "/cv/static/js/main.97dcf3c2.chunk.js",
+    "main.css": "/cv/static/css/main.7e218dc7.chunk.css",
+    "main.js": "/cv/static/js/main.e25e2d4c.chunk.js",
     "runtime-main.js": "/cv/static/js/runtime-main.32a76714.js",
-    "static/js/2.253b2694.chunk.js": "/cv/static/js/2.253b2694.chunk.js",
+    "static/js/2.5073eece.chunk.js": "/cv/static/js/2.5073eece.chunk.js",
     "index.html": "/cv/index.html",
-    "precache-manifest.e140bb99ce95ffd64823d427fcc26757.js": "/cv/precache-manifest.e140bb99ce95ffd64823d427fcc26757.js",
+    "precache-manifest.d0293412ef127245ea20707b23932d29.js": "/cv/precache-manifest.d0293412ef127245ea20707b23932d29.js",
     "service-worker.js": "/cv/service-worker.js",
     "static/media/CvApp.scss": "/cv/static/media/Robotothinitalic.f31f3151.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.32a76714.js",
-    "static/js/2.253b2694.chunk.js",
-    "static/css/main.b3110e9c.chunk.css",
-    "static/js/main.97dcf3c2.chunk.js"
+    "static/js/2.5073eece.chunk.js",
+    "static/css/main.7e218dc7.chunk.css",
+    "static/js/main.e25e2d4c.chunk.js"
   ]
 }
