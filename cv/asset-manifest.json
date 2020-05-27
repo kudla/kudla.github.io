@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.9521f7cb.chunk.css",
-    "main.js": "/cv/static/js/main.3d50a82f.chunk.js",
-    "runtime-main.js": "/cv/static/js/runtime-main.32a76714.js",
-    "static/js/2.65253bba.chunk.js": "/cv/static/js/2.65253bba.chunk.js",
+    "main.css": "/cv/static/css/main.fea73818.chunk.css",
+    "main.js": "/cv/static/js/main.1595d142.chunk.js",
+    "runtime-main.js": "/cv/static/js/runtime-main.e4fe9350.js",
+    "static/js/2.d038fa77.chunk.js": "/cv/static/js/2.d038fa77.chunk.js",
     "index.html": "/cv/index.html",
-    "precache-manifest.5b1c2d74b644642841f58801832ffa33.js": "/cv/precache-manifest.5b1c2d74b644642841f58801832ffa33.js",
+    "precache-manifest.3cb28ae5abb86d19be1e3d33e345484c.js": "/cv/precache-manifest.3cb28ae5abb86d19be1e3d33e345484c.js",
     "service-worker.js": "/cv/service-worker.js",
+    "static/js/2.d038fa77.chunk.js.LICENSE.txt": "/cv/static/js/2.d038fa77.chunk.js.LICENSE.txt",
     "static/media/CvApp.scss": "/cv/static/media/Robotothinitalic.f31f3151.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.32a76714.js",
-    "static/js/2.65253bba.chunk.js",
-    "static/css/main.9521f7cb.chunk.css",
-    "static/js/main.3d50a82f.chunk.js"
+    "static/js/runtime-main.e4fe9350.js",
+    "static/js/2.d038fa77.chunk.js",
+    "static/css/main.fea73818.chunk.css",
+    "static/js/main.1595d142.chunk.js"
   ]
 }
