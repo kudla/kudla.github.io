@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/agilestacks-promo-app/static/css/main.71950f9c.chunk.css",
-    "main.js": "/agilestacks-promo-app/static/js/main.0d310a08.chunk.js",
+    "main.js": "/agilestacks-promo-app/static/js/main.be33df53.chunk.js",
     "runtime-main.js": "/agilestacks-promo-app/static/js/runtime-main.daf274b1.js",
     "static/js/2.494a36f9.chunk.js": "/agilestacks-promo-app/static/js/2.494a36f9.chunk.js",
     "index.html": "/agilestacks-promo-app/index.html",
-    "precache-manifest.08caf7e6e66eeb2f66a7134948593506.js": "/agilestacks-promo-app/precache-manifest.08caf7e6e66eeb2f66a7134948593506.js",
+    "precache-manifest.6aed7967830f58026a11f53bb2922f54.js": "/agilestacks-promo-app/precache-manifest.6aed7967830f58026a11f53bb2922f54.js",
     "service-worker.js": "/agilestacks-promo-app/service-worker.js",
     "static/js/2.494a36f9.chunk.js.LICENSE": "/agilestacks-promo-app/static/js/2.494a36f9.chunk.js.LICENSE"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.daf274b1.js",
     "static/js/2.494a36f9.chunk.js",
     "static/css/main.71950f9c.chunk.css",
-    "static/js/main.0d310a08.chunk.js"
+    "static/js/main.be33df53.chunk.js"
   ]
 }

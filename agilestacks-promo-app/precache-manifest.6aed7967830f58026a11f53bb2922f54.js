@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39e3001a554a951c68c40b085653ab4f",
+    "revision": "7f48942cacf23a831d6acad283a80c5c",
     "url": "/agilestacks-promo-app/index.html"
   },
   {
-    "revision": "ef8a6abde8291cffd622",
+    "revision": "c7b71507ae86e6ead2df",
     "url": "/agilestacks-promo-app/static/css/main.71950f9c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agilestacks-promo-app/static/js/2.494a36f9.chunk.js.LICENSE"
   },
   {
-    "revision": "ef8a6abde8291cffd622",
-    "url": "/agilestacks-promo-app/static/js/main.0d310a08.chunk.js"
+    "revision": "c7b71507ae86e6ead2df",
+    "url": "/agilestacks-promo-app/static/js/main.be33df53.chunk.js"
   },
   {
     "revision": "7566a28c549dae8f3175",
