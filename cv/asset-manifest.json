@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.c6dcc947.chunk.css",
-    "main.js": "/cv/static/js/main.3829e8c0.chunk.js",
+    "main.css": "/cv/static/css/main.63875fc3.chunk.css",
+    "main.js": "/cv/static/js/main.942d575f.chunk.js",
     "runtime-main.js": "/cv/static/js/runtime-main.e4fe9350.js",
-    "static/js/2.d038fa77.chunk.js": "/cv/static/js/2.d038fa77.chunk.js",
+    "static/js/2.240cc55e.chunk.js": "/cv/static/js/2.240cc55e.chunk.js",
     "index.html": "/cv/index.html",
-    "precache-manifest.d6c10d2965960b5e66b8be2b0cbddd98.js": "/cv/precache-manifest.d6c10d2965960b5e66b8be2b0cbddd98.js",
+    "precache-manifest.d66c92e2064c3e9be22e288496037ed3.js": "/cv/precache-manifest.d66c92e2064c3e9be22e288496037ed3.js",
     "service-worker.js": "/cv/service-worker.js",
-    "static/js/2.d038fa77.chunk.js.LICENSE.txt": "/cv/static/js/2.d038fa77.chunk.js.LICENSE.txt",
+    "static/js/2.240cc55e.chunk.js.LICENSE.txt": "/cv/static/js/2.240cc55e.chunk.js.LICENSE.txt",
     "static/media/CvApp.scss": "/cv/static/media/Robotothinitalic.f31f3151.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.e4fe9350.js",
-    "static/js/2.d038fa77.chunk.js",
-    "static/css/main.c6dcc947.chunk.css",
-    "static/js/main.3829e8c0.chunk.js"
+    "static/js/2.240cc55e.chunk.js",
+    "static/css/main.63875fc3.chunk.css",
+    "static/js/main.942d575f.chunk.js"
   ]
 }
