@@ -6,10 +6,14 @@ docs:
     line in _config.yml. It will appear in your document head meta (for
     Google search results) and in your feed.xml site description.
   baseurl: "/docs" # the subpath of your site, e.g. /blog
+  basepath: "docs"
   url: "http://yourdomain.com" # the base hostname & protocol for your site
   twitter_username: jekyllrb
   github_username:  jekyll
-
+plugins_dir:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 markdown: kramdown
 defaults:
   -
@@ -17,4 +21,5 @@ defaults:
       path: "docs" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "docs/default"
+      layout: null
+      glayout: "docs/default"

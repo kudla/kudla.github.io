@@ -1,0 +1,5 @@
+RewriteEngine on
+#RewriteCond %{REQUEST_URI} !^/docs/js($|/)
+#RewriteCond %{REQUEST_URI} ^/docs/.*
+RewriteCond %{REQUEST_URI} !fff
+RewriteRule (.*) /fff?$1 [RL]

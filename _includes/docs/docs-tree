@@ -1,0 +1,41 @@
+{% assign docs = site.pages %}
+
+{% assign items = '[' %}
+
+{% for doc in docs %}
+
+  {% assign path = doc.path | split: '/' %}
+  
+  {% if path[0] == site.docs.basepath and  doc.exclude != true %}
+    {% if doc.path == page.path %}
+      {% assign active = true %}
+    {% else %}
+      {% assign active = false %}
+    {% endif %}
+    {% capture item %}{
+        "title": {{ doc.title | jsonify }},
+        "path": {{ doc.path | jsonify }},
+        "url": {{ doc.url | jsonify }},
+        "active": {{ active | jsonify}}
+    }{% endcapture %}
+    
+    {% if items != '[' %}
+      {% assign items = items | append: ',' %}
+    {% endif %}
+    
+    {% assign items = items | append: item %}
+    
+  {% endif %}
+{% endfor %}
+
+{% assign items = items | append: ']' | json %}
+
+length: {{items.length}}
+{% for item in items %}
+___________item:{{item | jsonify}}
+{% endfor %}
+
+<script type="javascript">
+  var docs = {{ items }}
+  console.log(docs);
+</script>
